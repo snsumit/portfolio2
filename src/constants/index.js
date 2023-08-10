@@ -214,15 +214,15 @@ web1,
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
         {
-          name: "react",
+          name: "tag1",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "tag2",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "tag3",
           color: "pink-text-gradient",
         },
       ],
@@ -235,15 +235,15 @@ web1,
         "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [
         {
-          name: "react",
+          name: "tag1",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "tag2",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "tag3",
           color: "pink-text-gradient",
         },
       ],
@@ -256,15 +256,15 @@ web1,
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
       tags: [
         {
-          name: "nextjs",
+          name: "tag1",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "tag2",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "tag3",
           color: "pink-text-gradient",
         },
       ],

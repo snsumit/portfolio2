@@ -23,7 +23,7 @@ return(
         <div className="relative w-full h-[230px]">
           <img src={image} alt={name}
           className="w-full h-full object-cover rounded-2xl"
-
+    
           />
           <div className="absolute inset-0 flex justify-end m-3 card-img_hover">
              <div
@@ -50,9 +50,15 @@ return(
           {tags.map((tag)=>(
             <p key={tag.name} className={`text-[14px] ${tag.color}`}>
               #{tag.name}
+              
             </p>
+            
           ))}
-         </div>
+           </div >
+           <div className="mt-1 text-secondary font-medium">
+          <h6>#Comming soon</h6>
+          </div>
+
     </Tilt>
 
     </motion.div>
